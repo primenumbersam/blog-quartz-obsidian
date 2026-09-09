@@ -1,0 +1,13 @@
+diff --git a/node_modules/@quartz-community/note-properties/dist/index.js b/node_modules/@quartz-community/note-properties/dist/index.js
+index f60f026..4d6d13d 100644
+--- a/node_modules/@quartz-community/note-properties/dist/index.js
++++ b/node_modules/@quartz-community/note-properties/dist/index.js
+@@ -10611,7 +10611,7 @@ var NoteProperties = (userOpts) => {
+             } else {
+               data.title = file.stem ?? "Untitled";
+             }
+-            const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]));
++            const tags = coerceToArray(coalesceAliases(data, ["tags", "tag", "domain"]));
+             if (tags) data.tags = [...new Set(tags.map((tag) => slugTag(tag)))];
+             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]));
+             if (aliases) {
