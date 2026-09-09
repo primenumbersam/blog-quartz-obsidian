@@ -15,11 +15,11 @@ tags:
 
 ### 신조어
 
-- [[term/gg]] — 항복
+- [term/gg](term/gg) — 항복
 - [[term/긁]] — 발작버튼
 - [[term/느좋]] — 느낌 좋은
 - [[term/느앰]] — 느낌 애매하다
-- [[term/어쩔티비-근데-어쩔건데]] — 
+- [[term/어쩔티비-근데-어쩔건데]] — 적반하장
 - [[term/좋느]] — 좋은 느낌
 - [[term/즐]] — 헛소리에 대한 답변, ‘즐거운 시간되세요’
 - [[term/쩔어]] — 엄청나다, 대단하다. 2007년경 부터 유행함
@@ -69,11 +69,11 @@ tags:
 
 ### contrast_pair
 
-- [[concept/-nomy-vs--logy]] — -nomy, -logy
+- [[concept/nomy-vs-logy]] — -nomy, -logy
 - [[concept/cc-vs-ff-language]] — CC, FF language
 - [[concept/남자-vs-여자]] — 남자, 여자
 - [[concept/속어-vs-고급어]] — 속어, 고급어
-- [[concept/표리부동하는-다수당-vs-이율배반적인-소수당]] — 표리부동하는 다수당, 이율배반적인 소수당
+- [[concept/다수당-vs-소수당]] — 표리부동하는 다수당, 이율배반적인 소수당
 - [[concept/플라톤-vs-아리스토텔레스]] — 플라톤, 아리스토텔레스
 
 ### cluster
@@ -82,7 +82,7 @@ tags:
 - [[concept/느좋-cluster]] — 느좋, 느앰, 좋느
 - [[concept/개oo-핵oo-존oo]] — 개OO, 핵OO, 존OO
 - [[concept/공염불-공허참vacuously-true]] — 공염불, 공허참(vacuously true)
-- [[concept/잘되면-내-탓-못되면-남-탓하는-그들에게-헌정하는-시詩]] — 잘되면 내 탓, 못되면 남 탓하는 그들에게 헌정하는 시(詩)
+- [[concept/잘되면-내-탓-못되면-남-탓]] — 잘되면 내 탓, 못되면 남 탓하는 그들에게 헌정하는 시(詩)
 - [[concept/조어造語-말-제조]] — 조어(造語, 말 제조)
 - [[concept/희망회로-정신승리-희망고문]] — 희망회로, 정신승리, 희망고문
 
